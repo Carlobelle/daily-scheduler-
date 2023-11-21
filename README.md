@@ -4,11 +4,13 @@
 ## Description
 the reason for the daily scheduler is so that anyone is able to keep track of what their plans throughout the day to get their tasks accomplished
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
+building the scheduler 
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+because its helpul to keep a track of what you would like to get done throughout your day 
 - What problem does it solve?
+it makes the person more organized
 - What did you learn?
 
 ## Table of Contents (Optional)
